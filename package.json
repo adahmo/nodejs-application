@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.230.173.192:8081/repository/penpal-war-repo/"
+    "registry": "http://3.226.74.52:8081/repository/penpal-npm.app/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
